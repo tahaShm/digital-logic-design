@@ -1,0 +1,127 @@
+C:/Users/Taha/Desktop/CA4_DLD/q6.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q6.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DLatch
+
+Top level modules:
+	DLatch
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q7.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q7.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HIC8
+
+Top level modules:
+	HIC8
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q1TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q1TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q1TB
+
+Top level modules:
+	q1TB
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q8.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MSDff
+
+Top level modules:
+	MSDff
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q2TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q2TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q2TB
+
+Top level modules:
+	q2TB
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q10.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q10.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MSDffR
+
+Top level modules:
+	MSDffR
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q11.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q11.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HIC8MS
+
+Top level modules:
+	HIC8MS
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q4TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q4TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q4TB
+
+Top level modules:
+	q4TB
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q12.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q12.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q11TB
+
+Top level modules:
+	q11TB
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q13.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q13.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HICq13
+
+Top level modules:
+	HICq13
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q6TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q6TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q6TB
+
+Top level modules:
+	q6TB
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q14.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q14.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HICq14
+
+Top level modules:
+	HICq14
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q7TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q7TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q7TB
+
+Top level modules:
+	q7TB
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q15.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q15.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q14TB
+
+Top level modules:
+	q14TB
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q1.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UCC1Bit
+
+Top level modules:
+	UCC1Bit
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q2.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UCC8Bit
+
+Top level modules:
+	UCC8Bit
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q13TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q13TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q13TB
+
+Top level modules:
+	q13TB
+
+} {} {}} C:/Users/Taha/Desktop/CA4_DLD/q4.v {1 {vlog -work work C:/Users/Taha/Desktop/CA4_DLD/q4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SRLatch
+
+Top level modules:
+	SRLatch
+
+} {} {}}

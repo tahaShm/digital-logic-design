@@ -1,0 +1,15 @@
+C:/Users/Taha/Desktop/CA6tb/TanX.vo {1 {vlog -work work C:/Users/Taha/Desktop/CA6tb/TanX.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TanX
+
+Top level modules:
+	TanX
+
+} {} {}} C:/Users/Taha/Desktop/CA6tb/tanTb.v {1 {vlog -work work C:/Users/Taha/Desktop/CA6tb/tanTb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tanTB
+
+Top level modules:
+	tanTB
+
+} {} {}}

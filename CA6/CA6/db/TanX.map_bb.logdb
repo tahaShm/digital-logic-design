@@ -1,0 +1,2 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,tanDp:inst|lpm_mult0:inst3|lpm_mult:lpm_mult_component|mult_8bn:auto_generated|mac_out2,

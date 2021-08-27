@@ -1,0 +1,10 @@
+`timescale 1ns/1ns
+module ratioCounter(input clk , rst , zeroLd , output reg[16:0] ratio50ToInf );
+  always@ (posedge clk , negedge rst)  begin
+    if (rst) ratio50ToInf <= 16'b0;
+    else begin
+      if (zeroLd) ratio50ToInf <= 16'b0;
+      else ratio50ToInf <= ratio50ToInf + 1;
+    end
+  end
+endmodule

@@ -1,0 +1,10 @@
+
+State Machine - |TanX|tanCntl:inst1|ps
+Name ps.sumExp ps.mult2 ps.mult1 ps.makeX2 ps.init ps.starting ps.idle 
+ps.idle 0 0 0 0 0 0 0 
+ps.starting 0 0 0 0 0 1 1 
+ps.init 0 0 0 0 1 0 1 
+ps.makeX2 0 0 0 1 0 0 1 
+ps.mult1 0 0 1 0 0 0 1 
+ps.mult2 0 1 0 0 0 0 1 
+ps.sumExp 1 0 0 0 0 0 1 

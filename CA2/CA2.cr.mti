@@ -1,0 +1,56 @@
+C:/Users/Taha/Desktop/CA2_dld/q4.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2_dld/q4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module oc15
+
+Top level modules:
+	oc15
+
+} {} {}} C:/Users/Taha/Desktop/CA2_dld/q1.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2_dld/q1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module oc7_1
+
+Top level modules:
+	oc7_1
+
+} {} {}} C:/Users/Taha/Desktop/CA2_dld/q4TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2_dld/q4TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testQ4
+
+Top level modules:
+	testQ4
+
+} {} {}} C:/Users/Taha/Desktop/CA2_dld/q2.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2_dld/q2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module oc7_2
+
+Top level modules:
+	oc7_2
+
+} {} {}} C:/Users/Taha/Desktop/CA2_dld/q2_CA1.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2_dld/q2_CA1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module oc3SL
+
+Top level modules:
+	oc3SL
+
+} {} {}} C:/Users/Taha/Desktop/CA2_dld/q6_CA1.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2_dld/q6_CA1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module oc3ASS
+
+Top level modules:
+	oc3ASS
+
+} {} {}} C:/Users/Taha/Desktop/CA2_dld/test.v {0 {vlog -work work C:/Users/Taha/Desktop/CA2_dld/test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test
+** Error: C:/Users/Taha/Desktop/CA2_dld/test.v(5): Array dimension with 'single value' (C-style) bound is only allowed in SystemVerilog (option -sv).
+** Error: C:/Users/Taha/Desktop/CA2_dld/test.v(5): Primitive output connection must be a net.
+
+} {4.0 6.0} {}} C:/Users/Taha/Desktop/CA2_dld/q3.v {1 {vlog -work work C:/Users/Taha/Desktop/CA2_dld/q3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testQ1
+
+Top level modules:
+	testQ1
+
+} {} {}}

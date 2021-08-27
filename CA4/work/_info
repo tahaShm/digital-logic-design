@@ -1,0 +1,365 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\altera\13.0sp1
+vDLatch
+Z1 !s100 7:Jd7Hg@^MSoQnBm3Rce03
+Z2 IU<a8WDWz_cHgnA3zIoN@02
+Z3 VC5I[1n[Q7@`iT7G=]>m7l3
+Z4 dC:\Users\Taha\Desktop\CA4_DLD
+Z5 w1543777092
+Z6 8C:/Users/Taha/Desktop/CA4_DLD/q6.v
+Z7 FC:/Users/Taha/Desktop/CA4_DLD/q6.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q6.v|
+Z10 o-work work -O0
+Z11 n@d@latch
+Z12 !s108 1544044766.598000
+Z13 !s107 C:/Users/Taha/Desktop/CA4_DLD/q6.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHIC8
+Z14 !s100 cO[1RdHiJ0fJT]mhCfI^=0
+Z15 IZCaYfB8f=iG<8F;?f<72L2
+Z16 V68lc?D`]knGAjn[feZC`L2
+R4
+Z17 w1543778693
+Z18 8C:/Users/Taha/Desktop/CA4_DLD/q7.v
+Z19 FC:/Users/Taha/Desktop/CA4_DLD/q7.v
+L0 2
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q7.v|
+R10
+Z21 n@h@i@c8
+Z22 !s108 1544044766.717000
+Z23 !s107 C:/Users/Taha/Desktop/CA4_DLD/q7.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHIC8MS
+Z24 !s100 J58d5a5jDJ;M3b2McSBI82
+Z25 IOcDb5iecKUbnPjZm51KKY3
+Z26 VSc2lKz=mJA=@_8WQ3jgz62
+R4
+Z27 w1543858298
+Z28 8C:/Users/Taha/Desktop/CA4_DLD/q11.v
+Z29 FC:/Users/Taha/Desktop/CA4_DLD/q11.v
+L0 2
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q11.v|
+R10
+Z31 n@h@i@c8@m@s
+Z32 !s108 1544044767.299000
+Z33 !s107 C:/Users/Taha/Desktop/CA4_DLD/q11.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHICq13
+Z34 !s100 HEX5RYOnRhjUDzYmHX]R:2
+Z35 I5G2=Xj_Xl0zDJzTQg:;Hj2
+Z36 Vg^O0cnkY<GfXM42NUPhH00
+R4
+Z37 w1544040119
+Z38 8C:/Users/Taha/Desktop/CA4_DLD/q13.v
+Z39 FC:/Users/Taha/Desktop/CA4_DLD/q13.v
+L0 2
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q13.v|
+R10
+Z41 n@h@i@cq13
+Z42 !s108 1544044767.532000
+Z43 !s107 C:/Users/Taha/Desktop/CA4_DLD/q13.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHICq14
+Z44 !s100 j=Ild2LBVSN^fAJcH>C[^0
+Z45 IYczYIlOZokI>iHHd9>kF91
+Z46 V1PGC4cCe^5cKm>YS0V:<<1
+R4
+Z47 w1544044377
+Z48 8C:/Users/Taha/Desktop/CA4_DLD/q14.v
+Z49 FC:/Users/Taha/Desktop/CA4_DLD/q14.v
+L0 2
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q14.v|
+R10
+Z51 n@h@i@cq14
+Z52 !s108 1544044767.633000
+Z53 !s107 C:/Users/Taha/Desktop/CA4_DLD/q14.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMSDff
+Z54 !s100 5bV^1o4?4^NZoeVnSV5Pm3
+Z55 I15do?3fZb9ln8AZ55WOZ11
+Z56 V7G;:H[J7da@`24O4Yk_7O1
+R4
+Z57 w1543840764
+Z58 8C:/Users/Taha/Desktop/CA4_DLD/q8.v
+Z59 FC:/Users/Taha/Desktop/CA4_DLD/q8.v
+L0 2
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q8.v|
+R10
+Z61 n@m@s@dff
+Z62 !s108 1544044766.829000
+Z63 !s107 C:/Users/Taha/Desktop/CA4_DLD/q8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMSDffR
+Z64 !s100 1^BSOU]gO;10zMn8TN`7=1
+Z65 Idd;f>dLe4L@P8zXND:k]k3
+Z66 Vef3_2=EEWWOo7Zf880jRT0
+R4
+Z67 w1543860422
+Z68 8C:/Users/Taha/Desktop/CA4_DLD/q10.v
+Z69 FC:/Users/Taha/Desktop/CA4_DLD/q10.v
+L0 2
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q10.v|
+R10
+Z71 n@m@s@dff@r
+Z72 !s108 1544044766.918000
+Z73 !s107 C:/Users/Taha/Desktop/CA4_DLD/q10.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vq11TB
+Z74 !s100 ^T6nIhZc[WbiihZl6YfWJ3
+Z75 IYm01j`cO0AWV?P0^0P1H^0
+Z76 V;P1>nF]oVMP>LnUKY;^LM1
+R4
+Z77 w1544039065
+Z78 8C:/Users/Taha/Desktop/CA4_DLD/q12.v
+Z79 FC:/Users/Taha/Desktop/CA4_DLD/q12.v
+L0 2
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q12.v|
+R10
+Z81 nq11@t@b
+Z82 !s108 1544044767.407000
+Z83 !s107 C:/Users/Taha/Desktop/CA4_DLD/q12.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vq13TB
+!i10b 1
+Z84 !s100 Lkm7ie`G>MPH9N3gFWen;2
+Z85 ISZie?<ElDaJ]7UG=mGXfj3
+Z86 VBUg?6e;]leXQ?MEI8PkGh2
+R4
+Z87 w1544040228
+Z88 8C:/Users/Taha/Desktop/CA4_DLD/q13TB.v
+Z89 FC:/Users/Taha/Desktop/CA4_DLD/q13TB.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1544044767.896000
+!s107 C:/Users/Taha/Desktop/CA4_DLD/q13TB.v|
+Z90 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q13TB.v|
+!s101 -O0
+R10
+Z91 nq13@t@b
+vq14TB
+Z92 !s100 eK?DCj2;m6b=B?:Z_X1kk2
+Z93 I3UY;VSi;faSP]mXIGD4M<1
+Z94 Vk@BjJbPRWNBkQ5>^an^m?0
+R4
+Z95 w1544044698
+Z96 8C:/Users/Taha/Desktop/CA4_DLD/q15.v
+Z97 FC:/Users/Taha/Desktop/CA4_DLD/q15.v
+L0 2
+R8
+r1
+31
+Z98 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q15.v|
+R10
+Z99 nq14@t@b
+!i10b 1
+!s85 0
+Z100 !s108 1544044767.758000
+Z101 !s107 C:/Users/Taha/Desktop/CA4_DLD/q15.v|
+!s101 -O0
+vq1TB
+Z102 !s100 L]_K82@zT4R[oN4f2<5M@0
+Z103 IOf<QagAg0MYELeX6F1CNa0
+Z104 VXGUSjBloJP6IF8j>SMm@Z3
+R4
+Z105 w1543683974
+Z106 8C:/Users/Taha/Desktop/CA4_DLD/q1TB.v
+Z107 FC:/Users/Taha/Desktop/CA4_DLD/q1TB.v
+L0 2
+R8
+r1
+31
+Z108 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q1TB.v|
+R10
+Z109 nq1@t@b
+Z110 !s108 1544044765.947000
+Z111 !s107 C:/Users/Taha/Desktop/CA4_DLD/q1TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vq2TB
+Z112 !s100 J4QTWGFRg0U26lT7A;VKY2
+Z113 IM_?i9:hZMo_CAhf_HLYCa3
+Z114 V9BGOccdc@zLUAB<C]c9QX0
+R4
+Z115 w1543691220
+Z116 8C:/Users/Taha/Desktop/CA4_DLD/q2TB.v
+Z117 FC:/Users/Taha/Desktop/CA4_DLD/q2TB.v
+L0 2
+R8
+r1
+31
+Z118 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q2TB.v|
+R10
+Z119 nq2@t@b
+Z120 !s108 1544044766.351000
+Z121 !s107 C:/Users/Taha/Desktop/CA4_DLD/q2TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vq4TB
+Z122 !s100 k[RizPa[RU84TSiXkzN[h0
+Z123 IIZnzhf6UBDel4A@6M6J`B0
+Z124 VdFcQ1R;I<RzVNC[b5^J:90
+R4
+Z125 w1543726510
+Z126 8C:/Users/Taha/Desktop/CA4_DLD/q4TB.v
+Z127 FC:/Users/Taha/Desktop/CA4_DLD/q4TB.v
+L0 2
+R8
+r1
+31
+Z128 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q4TB.v|
+R10
+Z129 nq4@t@b
+Z130 !s108 1544044766.476000
+Z131 !s107 C:/Users/Taha/Desktop/CA4_DLD/q4TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vq6TB
+Z132 !s100 1ocknaTB>DM6DJ7N^^4kV1
+Z133 Ibf8n1NhaH^X8h>jAefg1E3
+Z134 V@z6X9BB1NP3QzkKXIV@P23
+R4
+Z135 w1543777018
+Z136 8C:/Users/Taha/Desktop/CA4_DLD/q6TB.v
+Z137 FC:/Users/Taha/Desktop/CA4_DLD/q6TB.v
+L0 2
+R8
+r1
+31
+Z138 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q6TB.v|
+R10
+Z139 nq6@t@b
+Z140 !s108 1544044767.035000
+Z141 !s107 C:/Users/Taha/Desktop/CA4_DLD/q6TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vq7TB
+Z142 !s100 4UK=c18[:FclI6olI^I:U3
+Z143 Iee>IeWXZTo<6LQ?Eb[YO70
+Z144 Vj_>zZa:H8Va12TOU_FYlb1
+R4
+Z145 w1543857293
+Z146 8C:/Users/Taha/Desktop/CA4_DLD/q7TB.v
+Z147 FC:/Users/Taha/Desktop/CA4_DLD/q7TB.v
+L0 2
+R8
+r1
+31
+Z148 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q7TB.v|
+R10
+Z149 nq7@t@b
+Z150 !s108 1544044767.165000
+Z151 !s107 C:/Users/Taha/Desktop/CA4_DLD/q7TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSRLatch
+Z152 !s100 aTSDOdU<<<^;e>=RJbcl]2
+Z153 I7QRX0E;Q1c0h=HXYfJL8i2
+Z154 VYGa;<o>jfdRMmSi;>b4OG1
+R4
+Z155 w1543693841
+Z156 8C:/Users/Taha/Desktop/CA4_DLD/q4.v
+Z157 FC:/Users/Taha/Desktop/CA4_DLD/q4.v
+L0 2
+R8
+r1
+31
+Z158 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q4.v|
+R10
+Z159 n@s@r@latch
+Z160 !s108 1544044766.217000
+Z161 !s107 C:/Users/Taha/Desktop/CA4_DLD/q4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vUCC1Bit
+Z162 !s100 N95nHO[5VPh:Io[Xj>;dU0
+Z163 IemXkdK6d@UI=@4h>i4LR23
+Z164 VLdE_aHoeg4bT9;9=O4[Bl1
+R4
+Z165 w1543683392
+Z166 8C:/Users/Taha/Desktop/CA4_DLD/q1.v
+Z167 FC:/Users/Taha/Desktop/CA4_DLD/q1.v
+L0 2
+R8
+r1
+31
+Z168 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q1.v|
+R10
+Z169 n@u@c@c1@bit
+Z170 !s108 1544044765.830000
+Z171 !s107 C:/Users/Taha/Desktop/CA4_DLD/q1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vUCC8Bit
+Z172 !s100 do>E;Tbe_gTAZoUG9E7d82
+Z173 IbMJAf0V2W]n5CHBoBk0Z01
+Z174 VE@OW[mXZ^5H<]SXY4iNST3
+R4
+Z175 w1543691048
+Z176 8C:/Users/Taha/Desktop/CA4_DLD/q2.v
+Z177 FC:/Users/Taha/Desktop/CA4_DLD/q2.v
+L0 2
+R8
+r1
+31
+Z178 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA4_DLD/q2.v|
+R10
+Z179 n@u@c@c8@bit
+Z180 !s108 1544044766.097000
+Z181 !s107 C:/Users/Taha/Desktop/CA4_DLD/q2.v|
+!i10b 1
+!s85 0
+!s101 -O0

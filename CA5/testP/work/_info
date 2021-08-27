@@ -1,0 +1,143 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Taha\Desktop\CA5\simulation\modelsim
+vcounter
+Z1 !s100 M?@AlQoFM6A7j_GI;?dER1
+Z2 IjegakCe9gIAg`JS0b24182
+Z3 V]ecFRoVf1;?HC1lkb]XW12
+Z4 dC:\Users\Taha\Desktop\testP
+Z5 w1545849761
+Z6 8C:/Users/Taha/Desktop/testP/counter.v
+Z7 FC:/Users/Taha/Desktop/testP/counter.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/testP/counter.v|
+Z10 o-work work -O0
+Z11 !s108 1545849887.170000
+Z12 !s107 C:/Users/Taha/Desktop/testP/counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounterTB
+Z13 IAAPZo5l7FDd1RR2[BU>Zi2
+Z14 V=QdoT>h;3WfYUAF^fQcY61
+R4
+Z15 w1545849884
+Z16 8C:/Users/Taha/Desktop/testP/testbench.v
+Z17 FC:/Users/Taha/Desktop/testP/testbench.v
+L0 2
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/testP/testbench.v|
+R10
+Z19 ncounter@t@b
+Z20 !s100 ]I<mK0FQ[_XKTkhG1bemb2
+Z21 !s108 1545849887.301000
+Z22 !s107 C:/Users/Taha/Desktop/testP/testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfreqTB
+!i10b 1
+Z23 !s100 bWSU8G4U5Ne86[ZK`H8Io0
+Z24 IG7FJK@1mSWUT?k70[3?U@1
+Z25 Vzi6^GRHZ3h0]VU?VFTB]K2
+R4
+Z26 w1545844160
+Z27 8C:/Users/Taha/Desktop/testP/freqTB.v
+Z28 FC:/Users/Taha/Desktop/testP/freqTB.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1545849888.223000
+!s107 C:/Users/Taha/Desktop/testP/freqTB.v|
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/testP/freqTB.v|
+!s101 -O0
+R10
+Z30 nfreq@t@b
+vfrequencyDivider
+Z31 !s100 5GJf<c55nYSlJKQXU[VPV3
+Z32 IMA8A@Q[Vb:lJ>bg1@51FD2
+Z33 V^lFo94C[lAoO;Ho1536dH0
+R4
+Z34 w1545844147
+Z35 8C:/Users/Taha/Desktop/testP/frequencyDivider.v
+Z36 FC:/Users/Taha/Desktop/testP/frequencyDivider.v
+L0 2
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/testP/frequencyDivider.v|
+R10
+Z38 nfrequency@divider
+!i10b 1
+!s85 0
+Z39 !s108 1545849888.093000
+Z40 !s107 C:/Users/Taha/Desktop/testP/frequencyDivider.v|
+!s101 -O0
+vfreQuencyDivider
+Z41 I[@=N5I;BgndkM=WPSY:a;2
+Z42 VcE3;4`^>6L88OzHCm0WkQ2
+R4
+Z43 w1545839578
+R35
+R36
+L0 2
+R8
+r1
+31
+R37
+R10
+Z44 nfre@quency@divider
+Z45 !s100 J7cfI0522;><9;DUGIVoF1
+Z46 !s108 1545839581.600000
+R40
+!i10b 1
+!s85 0
+!s101 -O0
+vn_shifter
+Z47 !s100 8SM07k?1a2F;1^IRh9jHK0
+Z48 I`LV6KLV3Be>oaiaeA=lBD0
+Z49 VGPij?;@_hYN@C;ZQ2bCCS2
+R4
+Z50 w1545837788
+Z51 8C:/Users/Taha/Desktop/testP/shifter.v
+Z52 FC:/Users/Taha/Desktop/testP/shifter.v
+L0 2
+R8
+r1
+31
+Z53 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/testP/shifter.v|
+R10
+Z54 !s108 1545849887.772000
+Z55 !s107 C:/Users/Taha/Desktop/testP/shifter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshiftTB
+Z56 !s100 k15WZdfS<g::fMmS^JMAF0
+Z57 I2^6L7?Ne?=]VTZjJ^EiXH1
+Z58 VbE0FZbz?m]>OkDU36kEca1
+R4
+Z59 w1545837721
+Z60 8C:/Users/Taha/Desktop/testP/TB_shift.v
+Z61 FC:/Users/Taha/Desktop/testP/TB_shift.v
+L0 2
+R8
+r1
+31
+Z62 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/testP/TB_shift.v|
+R10
+Z63 nshift@t@b
+Z64 !s108 1545849887.958000
+Z65 !s107 C:/Users/Taha/Desktop/testP/TB_shift.v|
+!i10b 1
+!s85 0
+!s101 -O0

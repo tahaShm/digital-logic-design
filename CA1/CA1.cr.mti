@@ -1,0 +1,43 @@
+C:/Users/Taha/Desktop/CA1-dld/q5TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA1-dld/q5TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testQ2_4
+
+Top level modules:
+	testQ2_4
+
+} {} {}} C:/Users/Taha/Desktop/CA1-dld/q4.v {1 {vlog -work work C:/Users/Taha/Desktop/CA1-dld/q4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module oc3GL
+
+Top level modules:
+	oc3GL
+
+} {} {}} C:/Users/Taha/Desktop/CA1-dld/q7TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA1-dld/q7TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testQ2_4_6
+
+Top level modules:
+	testQ2_4_6
+
+} {} {}} C:/Users/Taha/Desktop/CA1-dld/q3TB.v {1 {vlog -work work C:/Users/Taha/Desktop/CA1-dld/q3TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testQ2
+
+Top level modules:
+	testQ2
+
+} {} {}} C:/Users/Taha/Desktop/CA1-dld/q6.v {1 {vlog -work work C:/Users/Taha/Desktop/CA1-dld/q6.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module oc3ASS
+
+Top level modules:
+	oc3ASS
+
+} {} {}} C:/Users/Taha/Desktop/CA1-dld/q2.v {1 {vlog -work work C:/Users/Taha/Desktop/CA1-dld/q2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module oc3SL
+
+Top level modules:
+	oc3SL
+
+} {} {}}

@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\altera\13.0sp1
+vn_bit_adder
+Z1 !s100 n2GF9MoR:nS5]0UEhk0AT0
+Z2 I6g7PE:`g3d?<J`bK;^YgT1
+Z3 VbP08Mzl2VT_bob57i4kB13
+Z4 dC:\Users\Taha\Desktop\CA3_dld
+Z5 w1542830146
+Z6 8C:/Users/Taha/Desktop/CA3_dld/q1.v
+Z7 FC:/Users/Taha/Desktop/CA3_dld/q1.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA3_dld/q1.v|
+Z10 o-work work -O0
+Z11 !s108 1542832951.701000
+Z12 !s107 C:/Users/Taha/Desktop/CA3_dld/q1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vone_counter_127bit
+Z13 !s100 `P`f^4^8=Aio<33c[L8kV2
+Z14 IVTF^n=`o:5zk0_9CQOLUS1
+Z15 V92]?Uf0AT1R3hI5=4Z;K<1
+R4
+Z16 w1542713726
+Z17 8C:/Users/Taha/Desktop/CA3_dld/q3.v
+Z18 FC:/Users/Taha/Desktop/CA3_dld/q3.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA3_dld/q3.v|
+R10
+!i10b 1
+!s85 0
+Z20 !s108 1542832952.140000
+Z21 !s107 C:/Users/Taha/Desktop/CA3_dld/q3.v|
+!s101 -O0
+vq1TB
+Z22 !s100 ToHEQ6NMcW`9N52aR00Wo2
+Z23 IPAE:7T:M5;zeA[Ri6QEA61
+Z24 VXGUSjBloJP6IF8j>SMm@Z3
+R4
+Z25 w1542713709
+Z26 8C:/Users/Taha/Desktop/CA3_dld/q2.v
+Z27 FC:/Users/Taha/Desktop/CA3_dld/q2.v
+L0 2
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA3_dld/q2.v|
+R10
+Z29 nq1@t@b
+Z30 !s108 1542832951.765000
+Z31 !s107 C:/Users/Taha/Desktop/CA3_dld/q2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vq3TB
+!i10b 1
+Z32 !s100 Zd2PbLQWH6QhUOMR7^2:g2
+Z33 IP[Xo`Gn2^N]8dMQLK7WEa2
+Z34 V`ke:AGYeXH_eXOXKOU9;l0
+R4
+Z35 w1542832883
+Z36 8C:/Users/Taha/Desktop/CA3_dld/q4.v
+Z37 FC:/Users/Taha/Desktop/CA3_dld/q4.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1542832952.228000
+!s107 C:/Users/Taha/Desktop/CA3_dld/q4.v|
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA3_dld/q4.v|
+!s101 -O0
+R10
+Z39 nq3@t@b

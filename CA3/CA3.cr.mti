@@ -1,0 +1,29 @@
+C:/Users/Taha/Desktop/CA3_dld/q3.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3_dld/q3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module one_counter_127bit
+
+Top level modules:
+	one_counter_127bit
+
+} {} {}} C:/Users/Taha/Desktop/CA3_dld/q4.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3_dld/q4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q3TB
+
+Top level modules:
+	q3TB
+
+} {} {}} C:/Users/Taha/Desktop/CA3_dld/q1.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3_dld/q1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module n_bit_adder
+
+Top level modules:
+	n_bit_adder
+
+} {} {}} C:/Users/Taha/Desktop/CA3_dld/q2.v {1 {vlog -work work C:/Users/Taha/Desktop/CA3_dld/q2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module q1TB
+
+Top level modules:
+	q1TB
+
+} {} {}}

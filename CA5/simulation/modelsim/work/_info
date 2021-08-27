@@ -1,0 +1,105 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Taha\Desktop\testP
+vCA5
+Z1 !s100 ]JbT<CBgZ9[^ZA:=>`izM3
+Z2 I7Mio@I;d@mA7`zR2l`fW62
+Z3 V=9_D=7k4@5i2=??eRE;<43
+Z4 dC:\Users\Taha\Desktop\CA5\simulation\modelsim
+Z5 w1545857312
+Z6 8C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5.vo
+Z7 FC:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5.vo|
+Z10 o-work work -O0
+Z11 n@c@a5
+Z12 !s108 1545860568.359000
+Z13 !s107 C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vCA5Co
+Z14 !s100 dE`e9aiI]Cn<LV8UjeY<71
+Z15 IVCH4[AF3z4QcRCl^CI9m<3
+Z16 V8dafV]STQU3N[PPBf>je>3
+R4
+Z17 w1545859794
+Z18 8C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5Co.v
+Z19 FC:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5Co.v
+L0 2
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5Co.v|
+R10
+Z21 n@c@a5@co
+!i10b 1
+!s85 0
+Z22 !s108 1545860568.964000
+Z23 !s107 C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5Co.v|
+!s101 -O0
+vCA5TB
+Z24 I0^3zeOn]HZ>ZOIXKha@E11
+Z25 VFYN6TZV3`Oba<>]0e`FHA1
+R4
+Z26 w1545860524
+Z27 8C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5TB.v
+Z28 FC:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5TB.v
+L0 2
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5TB.v|
+R10
+Z30 n@c@a5@t@b
+Z31 !s100 K4eJoiMY3LaZXzIBALC@61
+Z32 !s108 1545860568.503000
+Z33 !s107 C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfrequencyMultiplier
+!i10b 1
+Z34 !s100 dbhLl494NRQ>lmHSK0C123
+Z35 I67=2JUL6EjfPX4X:7V^zY2
+Z36 VO@nHN@;aiLO<Z^0TazcIO1
+R4
+Z37 w1545860383
+Z38 8C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5Total.v
+Z39 FC:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5Total.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1545860569.168000
+!s107 C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5Total.v|
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA5/simulation/modelsim/CA5Total.v|
+!s101 -O0
+R10
+Z41 nfrequency@multiplier
+vratioCounter
+Z42 IzfIEU73mBEeWbAmP^gR0X3
+Z43 VMoDZL]T4f;YIWBR22bYT]0
+R4
+Z44 w1545239696
+Z45 8C:/Users/Taha/Desktop/CA5/simulation/modelsim/ratioCounter.v
+Z46 FC:/Users/Taha/Desktop/CA5/simulation/modelsim/ratioCounter.v
+L0 2
+R8
+r1
+31
+R10
+Z47 nratio@counter
+Z48 !s100 AnCm?1T:SFdckNJd;ThVj2
+Z49 !s108 1545857911.700000
+Z50 !s107 C:/Users/Taha/Desktop/CA5/simulation/modelsim/ratioCounter.v|
+Z51 !s90 -reportprogress|300|-work|work|C:/Users/Taha/Desktop/CA5/simulation/modelsim/ratioCounter.v|
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,43 @@
+C:/Users/Taha/Desktop/testP/TB_shift.v {1 {vlog -work work C:/Users/Taha/Desktop/testP/TB_shift.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shiftTB
+
+Top level modules:
+	shiftTB
+
+} {} {}} C:/Users/Taha/Desktop/testP/freqTB.v {1 {vlog -work work C:/Users/Taha/Desktop/testP/freqTB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module freqTB
+
+Top level modules:
+	freqTB
+
+} {} {}} C:/Users/Taha/Desktop/testP/counter.v {1 {vlog -work work C:/Users/Taha/Desktop/testP/counter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/Taha/Desktop/testP/testbench.v {1 {vlog -work work C:/Users/Taha/Desktop/testP/testbench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counterTB
+
+Top level modules:
+	counterTB
+
+} {} {}} C:/Users/Taha/Desktop/testP/shifter.v {1 {vlog -work work C:/Users/Taha/Desktop/testP/shifter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module n_shifter
+
+Top level modules:
+	n_shifter
+
+} {} {}} C:/Users/Taha/Desktop/testP/frequencyDivider.v {1 {vlog -work work C:/Users/Taha/Desktop/testP/frequencyDivider.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module frequencyDivider
+
+Top level modules:
+	frequencyDivider
+
+} {} {}}
